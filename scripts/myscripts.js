@@ -1,1 +1,0 @@
-alert('Welcome!\nThis is still a test site.\nHowever, feel free to look around!');
